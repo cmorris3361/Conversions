@@ -1,8 +1,7 @@
 # Arduino Conversions and Lookup Library
 https://github.com/cmorris3361/Conversions
-README file  
-Charlie Morris 
-May 2024  
+
+Charlie Morris - May 2024  
 
 ## License
 Arduino Conversion and Lookup Library Copyright (C) 2024 Charlie Morris GNU GPL v3.0
