@@ -1,5 +1,5 @@
 # Arduino Conversions and Lookup Library
-https://github.com/......  
+https://github.com/cmorris3361/Conversions
 README file  
 Charlie Morris 
 May 2024  
@@ -15,7 +15,7 @@ You should have received a copy of the GNU General Public License
 along with this program. If not, see <https://www.gnu.org/licenses/gpl.html>
 
 ## Version Control
-V0.0.1 - First Version of Arduino Conversion and Lookup Library
+V0.0.1 | 07/04/24 | First Version of Arduino Conversion and Lookup Library
 
 ## Know Issues
 
