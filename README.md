@@ -18,6 +18,9 @@ along with this program. If not, see <https://www.gnu.org/licenses/gpl.html>
 V0.0.1 | 07/04/24 | First Version of Arduino Conversion and Lookup Library
 
 ## Know Issues
+08/05/24 | v0.0.1 | Not all Heading are return when selcting 16 or 32 Heading Points 
+
+## Things to do
 
 ## Introduction
 The following is the list of Conversion and Lookup Functions
