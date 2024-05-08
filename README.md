@@ -63,8 +63,14 @@ double GtoOZ(double g)
 double OZtoG(double oz)
 
 ### Time Conversions
+String S2MS(unsigned long ms)
+String MS2DHMS(unsigned long ms)
 
 ## Lookups
 ### Compass 
-beaufortScale
-compassDirection
+
+char* BeafortScale(double mps)
+char* DOW(int dow, bool shortName)
+char* MonthName(int monthNumber, bool shortName)
+char* CompassHeading(double heading, int CompassPoints, bool shortName)
+
